@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Newsletter.cs">
+    <Files>
+      <File FileName="SimpleMailFactory.cs" Line="14" Column="13" />
+      <File FileName="Mail.cs" Line="40" Column="16" />
+      <File FileName="Config.cs" Line="9" Column="6" />
+      <File FileName="Newsletter.cs" Line="4" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
